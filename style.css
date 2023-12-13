@@ -1,0 +1,39 @@
+* {
+  margin: 0%;
+  padding:0%;
+  font-family: Nexa, Arial, Helvetica, sans-serif;
+}
+
+
+
+header {
+align-items: center;
+background-color:white;
+padding-bottom: 10em;
+}
+
+body {
+box-sizing: border-box;
+background-color: grey;
+}
+
+.wel {
+align-self: center;
+
+}
+
+.logo {
+
+  margin:0%;
+  width: 20em;
+  height: 20em;
+  margin: 0 50% 0 50%;
+  align-self: center;
+  box-sizing: border-box;
+  display:flex;
+}
+
+.des{
+  text-align: center;
+
+}
